@@ -23,7 +23,3 @@ Next, we simply apply the `anisotropic_diffusion()` algorithm and tweak the valu
 You can see that main neuronal structure is unaffected, the noise is gone and there is no severe blurring on the edges. The factor K, diffusion coefficient, has a direct impact on how nicely Anisotropic Diffusion plays with edges.
 
 Clone it. Play with it and clean up your images!
-
-
-
-
